@@ -81,7 +81,7 @@ WHERE dept.department_name = 'Cardiology';
 ```
 
 ## 📋 ERD (Entity Relationship Diagram)
-[\[Link to ERD or Diagram Image\]](https://www.mermaidchart.com/raw/1361226d-2f0d-4097-99a3-d3c8f75b2f67?theme=dark&version=v0.1&format=svg)
+[\[Link to ERD or Diagram Image\]](https://www.mermaidchart.com/raw/2443bcbe-67f6-4f97-8e31-bae285654754?theme=dark&version=v0.1&format=svg)
 
 ## 🛡️ Security Considerations
 - Use parameterized queries
